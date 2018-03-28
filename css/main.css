@@ -34,7 +34,9 @@ nav, .logo {
 menu {
   text-align: center;
   margin: 0 auto; }
-
+.logo {
+  padding-top: 1%
+}
 .menu > li {
   margin-right: 34px;
   list-style: none;
